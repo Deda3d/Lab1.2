@@ -7,7 +7,7 @@
             string jsonpath = @"C:\Users\kokok\OneDrive\Рабочий стол\file.json";
             Dictionary<char, int> d1 = new Dictionary<char, int>()
             {
-                ['a'] = 100,
+                ['a'] = 1,
                 ['b'] = 2,
                 ['c'] = 3
             };
